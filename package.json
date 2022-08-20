@@ -1,6 +1,6 @@
 {
   "name": "@jtalk/react-image-loading",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Load an image in React with loading placeholder and fallback",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -28,16 +28,16 @@
     "url": "https://github.com/Jtalk/react-image-loading"
   },
   "devDependencies": {
-    "@types/node": "^16.7.1",
-    "@types/react": "^16.14.14",
-    "@typescript-eslint/eslint-plugin": "^4.29.2",
-    "@typescript-eslint/parser": "^4.29.2",
-    "eslint": "^7.32.0",
-    "react": "^16.14.0",
+    "@types/node": "^18.7.8",
+    "@types/react": "^18.0.17",
+    "@typescript-eslint/eslint-plugin": "^5.33.1",
+    "@typescript-eslint/parser": "^5.33.1",
+    "eslint": "^8.22.0",
+    "react": "^18.2.0",
     "rimraf": "^3.0.2",
-    "typescript": "^4.3.5"
+    "typescript": "^4.7.4"
   },
   "peerDependencies": {
-    "react": "^15.0.0-0 || ^16.0.0-0 || ^17.0.0-0"
+    "react": "^15.0.0-0 || ^16.0.0-0 || ^17.0.0-0 || ^18.0.0-0"
   }
 }
